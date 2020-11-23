@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fruit in jungle</string>
+    <string name="score"> Your score: %d</string>
+</resources>
